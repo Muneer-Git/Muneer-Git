@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Mohammed Muneer
 
-🎓 **Computer Science student** at RMIT University (Melbourne, VIC), passionate about software engineering, data science, and algorithms. I enjoy building projects that combine theory with practical applications — from system simulations to web apps and machine learning.
+🎓 **Computer Science student** at RMIT University (Melbourne, VIC), passionate about software engineering, data science, and algorithms. I enjoy building projects that combine theory with practical applications from system simulations to web apps and machine learning.
 
 ---
 
