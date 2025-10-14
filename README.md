@@ -19,13 +19,6 @@
 - 🩸 **Blood Bank Management System** — Donor/patient matching and reporting with extendable design.  
 - 👓 **EyeClear Website** — Group project simulating booking, login, and checkout workflows for an optometry platform.  
 
-**Advanced Internship-Ready Projects:**  
-- 🔑 **FastAPI Auth & Tasks API** (JWT, SQLAlchemy, rate limiting)  
-- 🤖 **Fraud Detection ML App** (Logistic regression + Streamlit interface)  
-- 🗄️ **ETL CSV → SQLite Pipeline** (config-driven data transformation)  
-- 📊 **Graph Algorithms Suite** (BFS, Dijkstra, A*, MST, Topological Sort + CLI & visualizations)  
-- 🌐 **Async Web Scraper** (httpx, selectolax, robots.txt support, concurrency)  
-
 ---
 
 ## 📫 Connect
